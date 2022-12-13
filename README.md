@@ -9,7 +9,7 @@ reactJS, CSS, Bootstrap, Javascript, Firebase Database- Firestore and for hostin
 <hr>
 
 
-## The hosting link for the website is  <a href='https://flexmoney-assignment-gamma.vercel.app/'>here</a>
+## The hosting link for the website is  <a href='https://flex-money-assignment-woad.vercel.app/</a>
 ## How to run this app
 
 In the project directory, you can run:
